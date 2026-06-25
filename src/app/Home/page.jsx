@@ -3,8 +3,8 @@ import H3Text from '../Components/h3Text';
 
 const page = () => {
     return (
-        <div className='my-10 text-center'>
-            <H3Text>My Work Gallery</H3Text>
+        <div className='text-center my-10'>
+            <H3Text>Home Will Show Here</H3Text>
         </div>
     );
 };

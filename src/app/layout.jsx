@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
         <header>
           <Navbar></Navbar>
         </header>
-        <main>
+        <main className="bg-[#0B1120]">
           {children}
         </main></body>
     </html>
